@@ -27,3 +27,11 @@ Source	--------------------------------> IOIOIOIIOO -------> Java Application 	-
 ## FILEINPUTSTREAM ANS FILEOUTPUTSTREAM CLASS
 	Used to read and write data in a file
 	Prefer this when primitive datatype values are to be written
+	
+## BUFFEREDOUTPUTSTREAM
+	Used internal buffer to store data
+	Fast and more efficent
+
+## BUFFEREDINPUTSTREAM
+	Used to read information from stream.
+	Uses Buffer mechanism to make the performance fast.
