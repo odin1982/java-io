@@ -14,6 +14,11 @@ Source	--------------------------------> IOIOIOIIOO -------> Java Application 	-
 (textfile,console cmd,network(socket))	(Read Operation)						(write operation)
 
 
+## File
+	An instance of a File class represents the pathname of a particular file or directory on the fylesystem. The File class 	cannot read and write data within a file, although it can be passed as a reference to may stream classes to read or write 	data.
+	
+	The File class can be used to represent directories as well as files.
+
 ## OUPUTSTREAM CLASS
 	void write(int) throws IOException
 	void write(byte[]) throws IOException
