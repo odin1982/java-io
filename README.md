@@ -35,3 +35,12 @@ Source	--------------------------------> IOIOIOIIOO -------> Java Application 	-
 ## BUFFEREDINPUTSTREAM
 	Used to read information from stream.
 	Uses Buffer mechanism to make the performance fast.
+	
+## FILEREADER AND FILEWRITER
+	Used to write and read data from text files.
+	Character oriented classes.
+	
+## BYTEARRAYOUTPUTSTREAM
+	Used to write data into multiple files
+	data is written into byte array that can be written to multiple stream
+	
